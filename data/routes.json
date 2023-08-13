@@ -1,0 +1,6 @@
+{
+    "/users*" : "/600/",
+    "/orders*" : "/660/",
+    "/product*" : "/444/",
+    "/featured_products*" : "/444/"
+}
